@@ -9,3 +9,6 @@ Actualmente estoy enfocado en realizar proyectos que me mantengan activo para av
 Mi objetivo es lograr conseguir ese tan ansiado primer trabajo y despegar mi carrera profesional como desarrollador.
 
 Actualmente utilizo JavaScript como principal lenguaje y las tecnologías React, Redux, Express, Node, Sequelize, PostgreSQL. También tengo conocimientos en Java y planeo ampliar este catálogo comenzando por aprender Angular y TypeScript de manera autodidacta.
+
+Me pueden encontrar en LinkdIn https://www.linkedin.com/in/martinellilucas8 o por correo electrónico a martinellilucas8@gmail.com
+
